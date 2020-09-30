@@ -2,8 +2,8 @@ package Iso8583
 import (
 	"fmt"
 	"strconv"
-	"github.com/oaStuff/Iso8583/Utils"
-	"github.com/oaStuff/Iso8583/FieldValidator"
+	"github.com/safarifone/Iso8583/Utils"
+	"github.com/safarifone/Iso8583/FieldValidator"
 )
 
 type Field struct {

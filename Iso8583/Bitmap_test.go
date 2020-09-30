@@ -2,7 +2,7 @@ package Iso8583
 import (
 	"testing"
 	"encoding/hex"
-	"github.com/oaStuff/Iso8583/Formatter"
+	"github.com/safarifone/Iso8583/Formatter"
 )
 
 func TestBitmapDefaultFormatter(t *testing.T)  {

@@ -1,8 +1,8 @@
 package Iso8583
 import (
-	"github.com/oaStuff/Iso8583/Formatter"
-	"github.com/oaStuff/Iso8583/LengthFormatters"
-	"github.com/oaStuff/Iso8583/FieldValidator"
+	"github.com/safarifone/Iso8583/Formatter"
+	"github.com/safarifone/Iso8583/LengthFormatters"
+	"github.com/safarifone/Iso8583/FieldValidator"
 )
 
 type IFieldDescriptor interface  {

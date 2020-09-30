@@ -2,7 +2,7 @@ package validator
 
 import (
 
-	"github.com/oaStuff/Iso8583/FieldValidator"
+	"github.com/safarifone/Iso8583/FieldValidator"
 )
 
 

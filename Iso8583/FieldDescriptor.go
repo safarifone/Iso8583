@@ -3,10 +3,10 @@ import (
 	"errors"
 	"fmt"
 	"log"
-	"github.com/oaStuff/Iso8583/LengthFormatters"
-	"github.com/oaStuff/Iso8583/FieldValidator"
-	"github.com/oaStuff/Iso8583/Formatter"
-	"github.com/oaStuff/Iso8583/Utils"
+	"github.com/safarifone/Iso8583/LengthFormatters"
+	"github.com/safarifone/Iso8583/FieldValidator"
+	"github.com/safarifone/Iso8583/Formatter"
+	"github.com/safarifone/Iso8583/Utils"
 )
 
 type FieldDescriptor struct  {

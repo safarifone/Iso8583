@@ -2,7 +2,7 @@ This is an implementation of the ISO8583 standard in GO.
 
 #### Getting the library
 ```
-    go get github.com/oaStuff/Iso8583
+    go get github.com/safarifone/Iso8583
 ```
 
 #### Using default Iso8583 implementation

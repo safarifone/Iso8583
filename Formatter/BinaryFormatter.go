@@ -2,7 +2,7 @@ package formatter
 import (
 	"errors"
 	"encoding/hex"
-	"github.com/oaStuff/Iso8583/Validator"
+	"github.com/safarifone/Iso8583/Validator"
 )
 
 type BinaryFormatter struct {

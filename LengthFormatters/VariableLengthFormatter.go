@@ -2,8 +2,8 @@ package lengthFormatters
 import (
 	"strings"
 	"strconv"
-	"github.com/oaStuff/Iso8583/Formatter"
-	"github.com/oaStuff/Iso8583/Utils"
+	"github.com/safarifone/Iso8583/Formatter"
+	"github.com/safarifone/Iso8583/Utils"
 )
 
 type VariableLengthFormatter struct  {
